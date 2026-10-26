@@ -1,0 +1,1 @@
+CREATE TABLE customer_01 (id int PRIMARY KEY, name varchar(100));
