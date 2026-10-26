@@ -1,1 +1,0 @@
- CREATE VIEW app_schema.customer_01_vw AS SELECT * FROM app_schema.customer_01;
