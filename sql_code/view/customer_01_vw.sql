@@ -1,1 +1,1 @@
-CREATE VIEW customer_v AS SELECT * FROM customer;
+ CREATE VIEW app_schema.customer_01_vw AS SELECT * FROM app_schema.customer_01;
