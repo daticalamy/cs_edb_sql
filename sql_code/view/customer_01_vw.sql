@@ -1,0 +1,1 @@
+CREATE VIEW customer_v AS SELECT * FROM customer;
